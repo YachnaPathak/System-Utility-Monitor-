@@ -57,19 +57,3 @@ Follow these steps to set up and run the project:
 Tkinter
 Psutil
 Matplotlib
-Ensure that all dependencies are installed using pip install -r requirements.txt.
-
-📌 Contribution Guidelines
-🚀 Contributions are welcome! To contribute:
-
-Fork the repository
-Create a new branch (git checkout -b feature-branch)
-Make your changes and commit (git commit -m "Added new feature")
-Push to your fork (git push origin feature-branch)
-Open a Pull Request
-📌 License
-🔹 This project is licensed under the MIT License.
-🔹 You are free to use, modify, and distribute this software under the license terms.
-
-📌 Contact
-📧 For questions or collaboration opportunities, contact utkarshagarwal506@gmail.com
